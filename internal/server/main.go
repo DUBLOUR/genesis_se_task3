@@ -2,8 +2,8 @@ package server
 
 import (
 	"encoding/json"
-	"github.com/dublour/genesis_se_task1/pkg/binance"
-	"github.com/dublour/genesis_se_task1/pkg/model"
+	"github.com/dublour/genesis_se_task3/pkg/binance"
+	"github.com/dublour/genesis_se_task3/pkg/model"
 	"log"
 	"net/http"
 	"os"
